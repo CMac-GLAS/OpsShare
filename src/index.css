@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom brand utility */
+:root {
+  --ops-blue: 11, 83, 148;
+}
+a {
+  text-underline-offset: 2px;
+}
